@@ -26,6 +26,7 @@ The solver also includes two **real-world engineering applications** — chip co
 ## 👨‍💻 Authors
 
 | Arnob Pal |
+
 | Ziaur Rahman Zihan |
 
 **Supervised by:**  
