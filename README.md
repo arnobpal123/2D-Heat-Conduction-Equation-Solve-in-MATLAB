@@ -25,9 +25,9 @@ The solver also includes two **real-world engineering applications** — chip co
 
 ## 👨‍💻 Authors
 
-| Arnob Pal |
+Arnob Pal 
 
-| Ziaur Rahman Zihan |
+Ziaur Rahman Zihan 
 
 **Supervised by:**  
 Dr. Maruf Ahmed, Assistant Professor, Department of EEE, BUET  
