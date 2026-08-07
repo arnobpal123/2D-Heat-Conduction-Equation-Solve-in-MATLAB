@@ -21,22 +21,12 @@ The solver also includes two **real-world engineering applications** — chip co
 
 ---
 
-## 🏛️ Institution
-
-**Bangladesh University of Engineering and Technology (BUET)**  
-Department of Electrical and Electronic Engineering  
-Course: **EEE 212 — Numerical Technique Laboratory**  
-Level: 2 | Term: 1 | Section: B1  
-Date of Submission: 07/04/2026
-
 ---
 
 ## 👨‍💻 Authors
 
-| Name | Student ID |
-|---|---|
-| Arnob Pal | 2306095 |
-| Ziaur Rahman Zihan | 2306096 |
+| Arnob Pal |
+| Ziaur Rahman Zihan |
 
 **Supervised by:**  
 Dr. Maruf Ahmed, Assistant Professor, Department of EEE, BUET  
@@ -193,5 +183,3 @@ The figures below show the temperature profile for different input parameters:
 This project was developed as an academic submission for EEE 212 at BUET. Feel free to use it as a reference for learning FEM and MATLAB App Designer.
 
 ---
-
-<p align="center">Made with ❤️ by Arnob Pal & Ziaur Rahman Zihan · BUET EEE · 2026</p>
