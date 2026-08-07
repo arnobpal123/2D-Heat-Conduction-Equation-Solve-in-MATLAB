@@ -66,19 +66,6 @@ $$\frac{\partial}{\partial x}\left(k_x \frac{\partial T}{\partial x}\right) + \f
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 2D-Heat-Conduction-FEM-Solver/
-├── 📄 EEE_PROJECT_FROM_95_AND_96.m     # Main MATLAB App Designer source file
-├── 🖼️  360_F_487461421_...png           # App background image (required)
-├── 📊 Project_Report.pdf               # Full project report (BUET format)
-├── 📝 Project_Report.docx              # Editable report (Word format)
-├── 📽️  Presentation.pptx               # Project presentation slides
-├── 🎬 Video_Script_Code_GUI_md.pdf     # Code & GUI walkthrough video script
-└── 📖 README.md                        # This file
-```
-
 ---
 
 ## 🚀 Getting Started
